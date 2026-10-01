@@ -33,4 +33,4 @@ Graduando em **Sistemas de Informação** e focado no desenvolvimento backend co
 - **LinkedIn:** [filipe-costa-ti](https://www.linkedin.com/in/filipe-costa-ti)
 - **E-mail:** [fportocosta@gmail.com](mailto:fportocosta@gmail.com)
 
-![Snake animation](https://github.com/FilipeCostaDev10/FilipeCostaDev10/blob/output/github-contribution-grid-snake.svg)
+![Snake animation]([https://github.com/FilipeCostaDev10/FilipeCostaDev10/blob/output/github-contribution-grid-snake.svg](https://github.com/FilipeCostaDev10))
