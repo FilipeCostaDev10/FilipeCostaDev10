@@ -1,4 +1,4 @@
-# Oi, meu nome é Filipe Costa
+# Filipe Costa
 
 Graduando em **Sistemas de Informação** e focado no desenvolvimento backend com **Java**. Busco aplicar boas práticas de engenharia de software (Clean Code, SOLID e Arquitetura Limpa) na construção de APIs RESTful e sistemas escaláveis.
 
@@ -28,19 +28,9 @@ Graduando em **Sistemas de Informação** e focado no desenvolvimento backend co
 
 ---
 
-### 📌 Projetos em Destaque
-
-- 🍕 **[Zoomi - Sistema Gerenciador de Comandas e Estoque](LINK_DO_SEU_REPOSITORIO)**  
-  Sistema voltado para controle de comandas e gerenciamento de estoque para pizzarias, focado na resolução de problemas reais de logística operacional e organização de pedidos.  
-  *Tecnologias: Java, SQL, Arquitetura em Camadas.*
-
-- 🛒 **[API RESTful de Gestão de Pedidos / E-commerce](LINK_DO_SEU_REPOSITORIO)** *(Em progresso)*  
-  API desenvolvida com Spring Boot, Spring Security e persistência com JPA/PostgreSQL, utilizando DTOs, validações Bean Validation e testes unitários.  
-  *Tecnologias: Java 17/21, Spring Boot, Flyway, JUnit.*
-
----
-
 ### 📫 Contato
 
 - **LinkedIn:** [filipe-costa-ti](https://www.linkedin.com/in/filipe-costa-ti)
 - **E-mail:** [fportocosta@gmail.com](mailto:fportocosta@gmail.com)
+
+![Snake animation](https://github.com/FilipeCostaDev10/FilipeCostaDev10/blob/output/github-contribution-grid-snake.svg)
