@@ -17,7 +17,7 @@ Graduando em **Sistemas de Informação** e focado no desenvolvimento backend co
 
 **Linguagens & Frameworks:**
 
-[![Minhas Tecnologias](https://skillicons.dev/icons?i=java,html,css,git,github,figma,mysql,idea,vscode)](https://skillicons.dev)&theme=light
+[![Minhas Tecnologias](https://skillicons.dev/icons?i=java,html,css,git,github,figma,mysql,idea,vscode)](https://skillicons.dev&theme=light)
 
 ---
 
