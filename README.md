@@ -23,8 +23,14 @@ Graduando em **Sistemas de Informação** e focado no desenvolvimento backend co
 
 ### 📫 Contato
 
-- **LinkedIn:** [filipe-costa-ti](https://www.linkedin.com/in/filipe-costa-ti)
-- **E-mail:** [fportocosta@gmail.com](mailto:fportocosta@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/filipe-costa-ti" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:fportocosta@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
+</p>
 
 <div align-center>
   
