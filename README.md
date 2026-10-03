@@ -8,10 +8,10 @@
 <h3>🚀 Sobre Mim</h3>
 
 <ul>
-  <li>🎓 Cursando <b>Sistemas de Informação</b></li>
-  <li>💻 Foco atual: <b>Java</b>, <b>Spring Boot</b>, <b>JUnit/Mockito</b> e <b>Bancos de Dados Relacionais (SQL)</b>.</li>
-  <li>🛠️ Experiência no desenvolvimento de regras de negócio, modelagem de dados e sistemas de gestão.</li>
-  <li>🎯 Objetivo: Desenvolver soluções backend robustas, limpas e bem testadas.</li>
+  <li> Cursando <b>Sistemas de Informação</b></li>
+  <li> Foco atual: <b>Java</b>, <b>Spring Boot</b>, <b>JUnit/Mockito</b> e <b>Bancos de Dados Relacionais (SQL)</b>.</li>
+  <li> Experiência no desenvolvimento de regras de negócio, modelagem de dados e sistemas de gestão.</li>
+  <li> Objetivo: Desenvolver soluções backend robustas, limpas e bem testadas.</li>
 </ul>
 
 <hr />
