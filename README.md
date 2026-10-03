@@ -10,7 +10,7 @@
 <ul>
   <li> Cursando <b>Sistemas de Informação</b></li>
   <li> Foco atual: <b>Java</b>, <b>Spring Boot</b>, <b>JUnit/Mockito</b> e <b>Bancos de Dados Relacionais (SQL)</b>.</li>
-  <li> Experiência no desenvolvimento de regras de negócio, modelagem de dados e sistemas de gestão.</li>
+  <li> Experiência no desenvolvimento de regras de negócio, modelagem de dados e sistemas de gestão.</li>  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=FilipeCostaDev10&layout=compact&langs_count=4&theme=github_dark_dimmed)](https://github-stats-extended.vercel.app/api/top-langs?username=FilipeCostaDev10&layout=compact&langs_count=4&theme=github_dark_dimmed)
   <li> Objetivo: Desenvolver soluções backend robustas, limpas e bem testadas.</li>
 </ul>
 
