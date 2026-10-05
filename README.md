@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Filipe Costa 👋</h1>
+  <h1>Filipe Costa </h1>
   <p>Graduando em <b>Sistemas de Informação</b> e focado no desenvolvimento backend com <b>Java</b>.<br>Busco aplicar boas práticas de engenharia de software (Clean Code, SOLID e Arquitetura Limpa) na construção de APIs RESTful e sistemas escaláveis.</p>
 </div>
 
